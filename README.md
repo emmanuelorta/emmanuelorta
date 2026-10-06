@@ -17,7 +17,14 @@ This page is a register, not a portfolio: every claim links to where you can che
 | CredentialRecord | Public register of dated credential lookups | [credentialrecord.com](https://credentialrecord.com/) |
 | Terrarium Station LLC | Reptile and invertebrate breeding, bioactive supplies | [terrariumstation.com](https://terrariumstation.com/) |
 | SpeciesVault | Lineage registry | [nature-database](https://terrariumstation.com/nature-database) |
-| Eight Denver-metro home-service brands | Owned domains, listed with URLs | [the register](https://emmanuelorta.com/#register) |
+| Tree Service Denver | Tree removal, trimming and stump grinding, Denver | [treeservicedenverllc.com](https://treeservicedenverllc.com/) |
+| Arvada Tree Service | Tree care, Arvada | [arvadatreeservicellc.com](https://arvadatreeservicellc.com/) |
+| Supreme Fencing Denver | Fence installation and repair, Denver | [supremefencingdenver.com](https://supremefencingdenver.com/) |
+| Supreme Fencing Lakewood | Fence installation and repair, Lakewood | [supremefencinglakewood.com](https://supremefencinglakewood.com/) |
+| Supreme Fencing Arvada | Fence installation and repair, Arvada | [supremearvadafencing.com](https://supremearvadafencing.com/) |
+| Supreme Concrete CO | Flatwork, driveways, foundations | [supremeconcreteco.com](https://supremeconcreteco.com/) |
+| Supreme Excavation & Septic | Excavation and septic, Denver metro | [supremeexcavationdenver.com](https://supremeexcavationdenver.com/) |
+| Supreme Landscapers Denver | Landscape design and installation | [supremelandscapersdenver.com](https://supremelandscapersdenver.com/) |
 
 ## Public code
 
