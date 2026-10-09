@@ -6,14 +6,14 @@ This page is a register, not a portfolio: every claim links to where you can che
 
 ## Currently building
 
-- **[CrawlCheck](https://crawlcheck.io/)** — fetches a site as 15 crawler identities and grades 22 sections across reach, read and quote. Free scan, no account. The findings are an open dataset: [crawlcheck.io/data](https://crawlcheck.io/data).
+- **[CrawlCheck](https://crawlcheck.io/)** — the verification layer for the agentic web: one signed answer about any site that an AI agent can check before it reads, cites or acts. It fetches the site as 15 client identities and grades 22 sections across reach, read and quote. Free audit, no account. The findings are an open dataset: [crawlcheck.io/data](https://crawlcheck.io/data).
 - **[SpeciesVault](https://terrariumstation.com/nature-database)** — lineage registry for captive-bred animals: accession numbers, derived generation chains, Darwin Core export.
 
 ## Register
 
 | Property | What it is | Check it |
 |---|---|---|
-| CrawlCheck | AI-visibility scanner and open dataset | [crawlcheck.io](https://crawlcheck.io/) |
+| CrawlCheck | Verification layer for the agentic web, free audit and open dataset | [crawlcheck.io](https://crawlcheck.io/) |
 | CredentialRecord | Public register of dated credential lookups | [credentialrecord.com](https://credentialrecord.com/) |
 | Terrarium Station LLC | Reptile and invertebrate breeding, bioactive supplies | [terrariumstation.com](https://terrariumstation.com/) |
 | SpeciesVault | Lineage registry | [nature-database](https://terrariumstation.com/nature-database) |
