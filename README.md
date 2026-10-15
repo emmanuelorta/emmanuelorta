@@ -6,7 +6,7 @@ This page is a register, not a portfolio: every claim links to where you can che
 
 ## Currently building
 
-- **[CrawlCheck](https://crawlcheck.io/)** — the verification layer for the agentic web: one signed answer about any site that an AI agent can check before it reads, cites or acts. It fetches the site as 15 client identities and grades 22 sections across reach, read and quote. Free audit, no account. The findings are an open dataset: [crawlcheck.io/data](https://crawlcheck.io/data).
+- **[CrawlCheck](https://crawlcheck.io/)** — the verification layer for the agentic web: one signed answer about any site that an AI agent can check before it reads, cites or acts. It fetches the site as 15 client identities and measures 35 sections, 24 of them graded, across reach, read and quote. Free audit, no account. The findings are an open dataset: [crawlcheck.io/data](https://crawlcheck.io/data).
 - **[SpeciesVault](https://terrariumstation.com/nature-database)** — lineage registry for captive-bred animals: accession numbers, derived generation chains, Darwin Core export.
 
 ## Register
@@ -28,6 +28,8 @@ This page is a register, not a portfolio: every claim links to where you can che
 
 ## Public code
 
+- [crawlcheck-core](https://github.com/emmanuelorta/crawlcheck-core) — the open readers behind CrawlCheck: robots.txt policy per crawler (92 named agents), user-agent group shadowing, request verification against operators' published IP ranges. MIT, no dependencies, tested against the live service.
+- [@crawlcheck/sdk](https://www.npmjs.com/package/@crawlcheck/sdk) and [crawlcheck on PyPI](https://pypi.org/project/crawlcheck/) — typed clients for the CrawlCheck API and the offline verifier for its signed answers.
 - [PhotoFind-iOS](https://github.com/emmanuelorta/PhotoFind-iOS) — search your Photos library by content (SwiftUI, Vision OCR, Core Spotlight).
 - [terrarium-station-theme](https://github.com/emmanuelorta/terrarium-station-theme) — the WordPress child theme behind terrariumstation.com.
 
