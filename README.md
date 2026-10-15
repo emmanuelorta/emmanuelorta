@@ -33,4 +33,6 @@ This page is a register, not a portfolio: every claim links to where you can che
 - [PhotoFind-iOS](https://github.com/emmanuelorta/PhotoFind-iOS) — search your Photos library by content (SwiftUI, Vision OCR, Core Spotlight).
 - [terrarium-station-theme](https://github.com/emmanuelorta/terrarium-station-theme) — the WordPress child theme behind terrariumstation.com.
 
+The open-source work is MIT licensed and free to use. If it saves you time, you can [sponsor it on GitHub](https://github.com/sponsors/emmanuelorta).
+
 Writes PHP, JavaScript, TypeScript. Local SEO, structured data and entity graphs, Cloudflare Workers, machine-file engineering (llms.txt, robots.txt, entity maps).
