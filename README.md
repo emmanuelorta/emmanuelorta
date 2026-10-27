@@ -4,6 +4,8 @@ I measure what AI crawlers actually receive from a site, and build the instrumen
 
 This page is a register, not a portfolio: every claim links to where you can check it. Full register, proof table and research notes: [emmanuelorta.com](https://emmanuelorta.com/).
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--5269--1515-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-5269-1515)
+
 ## Currently building
 
 - **[CrawlCheck](https://crawlcheck.io/)** — the verification layer for the agentic web: one signed answer about any site that an AI agent can check before it reads, cites or acts. It fetches the site as 12 crawler identities and measures 47 sections across reach, read and quote. Free audit, no account. The findings are an open dataset: [crawlcheck.io/data](https://crawlcheck.io/data).
